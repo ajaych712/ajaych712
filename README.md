@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaych712
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in programming, exploring new tech
 - 🌱 I’m currently learning reactjs, threat modelling, visualization of maps
 - 💞️ I’m looking to collaborate on interesting projects with new tech
